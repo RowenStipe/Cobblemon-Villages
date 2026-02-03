@@ -1,0 +1,15 @@
+reload: '&e(!) Configs reloaded.'
+open-learn: '&e(!) Learn menu opened %player%.'
+buy-move: '&e(!) You buy %move% to %pokemon% for %amount% %currency%.'
+buy-move-free: '&e(!) You buy %move% to %pokemon% for free.'
+error-reload: '&c(!) Reload error, checking console and fixes config.'
+not-currency: '&c(!) You need %amount% %currency% to move.'
+not-pokemon: '&c(!) The pokemon you selected is not on your team.'
+already-move: '&c(!) The pokemon %pokemon% already %move% move.'
+not-valid-currency: '&c(!) Type currency - %currency% not supported.'
+not-valid-item: '&c(!) The item specified in the configuration is incorrect or does
+    not exist, please inform the administration about it.'
+error: '&c(!) Error. Try again.'
+item-currency: rare candy
+cobblemon-currency: cobbledollars
+impactor-currency: money

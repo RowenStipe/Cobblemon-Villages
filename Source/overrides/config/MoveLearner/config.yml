@@ -1,0 +1,13 @@
+currency-type: item
+item-price-move: cobblemon:rare_candy
+item-strong-tags: true
+hide-already-move: false
+legacy-move: true
+special-move: true
+egg-move: true
+level-move-price: 16
+tm-move-price: 16
+legacy-move-price: 32
+tutor-move-price: 16
+special-move-price: 16
+egg-move-price: 32

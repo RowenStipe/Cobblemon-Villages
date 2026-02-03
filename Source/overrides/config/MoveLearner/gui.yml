@@ -1,0 +1,50 @@
+localized-name-moves: true
+filler-choice-pokemon-u-i: true
+filler-choice-moves-u-i: true
+filler-sure-u-i: true
+information-u-i: true
+filler-item: minecraft:white_stained_glass_pane:0
+empty-pokemon-item: cobblemon:poke_ball
+previous-page-item: minecraft:arrow:0
+next-page-item: minecraft:arrow:0
+back-item: minecraft:red_stained_glass_pane:0
+accept-item: minecraft:lime_stained_glass_pane:0
+coming-item: minecraft:paper:0
+cancel-item: minecraft:red_stained_glass_pane:0
+information-item: minecraft:paper:0
+filter-item: minecraft:hopper
+select-pokemon-title: Select pokemon
+select-move-title: Select move
+accept-title: Are you sure?
+empty-pokemon-name: '&cEmpty Pokemon'
+moves-lore: '&7Moves: '
+move-symbol: '&7» '
+localized-move-name: ' &7(%move%)'
+localized-move-lore: ' &7(%move%)'
+previous-page-name: Previous page
+next-page-name: Next page
+back-name: '&cBack'
+accept-name: '&aAccept'
+cancel-name: '&cCancel'
+type-lore: 'Type: '
+power-lore: 'Power: %amount%'
+accuracy-lore: 'Accuracy: %amount%'
+pp-lore: 'PP: %amount% (%maxAmount%)'
+price-lore: 'Price: %amount% %currency%'
+price-free-lore: 'Price: free'
+information-name: 'Information:'
+information-lore: In this menu you can select a Pokemon that will be equipped with
+    any move available to it of your choice.
+filter-name: Filter
+filter-symbol: '&7» '
+filter-all: All
+filter-level: Level
+filter-t-m: TM
+filter-legacy: Legacy
+filter-tutor: Tutor
+filter-special: Special
+filter-egg: Egg
+item-currency: rare candy
+cobblemon-currency: cobbledollars
+impactor-currency: money
+not-valid-currency: '&cType currency - %currency% not supported.'

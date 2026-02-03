@@ -1,0 +1,17 @@
+{
+  "individualOverrides": {
+    "canInteract": true,
+    "onlyProtectOriginalBlocks": false,
+    "allowElytraFlight": false,
+    "allowExplosions": true,
+    "allowItemPickup": true,
+    "allowFireSpread": true,
+    "allowCreatureSpawning": true,
+    "canBreakBlocks": false,
+    "allowEnderPearls": false,
+    "allowPlayerPVP": true,
+    "canPlaceBlocks": false,
+    "allowRiptide": false
+  },
+  "note": "Only properties that differ from global config are saved here. See global.json for defaults."
+}
