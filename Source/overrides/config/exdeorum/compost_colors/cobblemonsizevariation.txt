@@ -1,0 +1,6 @@
+// Compost colors for cobblemonsizevariation. You may add your own colors, change existing ones, or remove colors that aren't needed.
+growth_essence, #5cff66
+huge_essence, #ff5ccc
+normal_essence, #86f4ff
+shrink_essence, #ff545a
+tiny_essence, #79fe9d

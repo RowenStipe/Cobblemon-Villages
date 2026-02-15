@@ -1,0 +1,10 @@
+// Compost colors for advancedperipherals. You may add your own colors, change existing ones, or remove colors that aren't needed.
+chunk_controller, #ffd0cd
+computer_tool, #c3ccda
+end_automata_core, #ffffff
+husbandry_automata_core, #ffffff
+memory_card, #d4d6cf
+overpowered_end_automata_core, #ffffff
+overpowered_husbandry_automata_core, #ffffff
+overpowered_weak_automata_core, #ffffff
+weak_automata_core, #ffffff

@@ -1,0 +1,23 @@
+// Compost colors for lilis_lucky_lures. You may add your own colors, change existing ones, or remove colors that aren't needed.
+anglers_hat, #846455
+bamboo_fishing_rod, #98c562
+cooked_cod_meal, #b29a51
+dynamite, #ca3641
+fish_net, #866643
+fish_trap, #c9a554
+fish_trophy_frame, #895f44
+fishing_net, #8c7d6e
+floating_books, #d39b5e
+floating_debris, #795744
+grilled_tropical_fish, #c9a543
+hanging_frame, #7c5b37
+lilis_lucky_lures_banner, #87c8f4
+ocean_fish_pool, #fa974b
+puffer_plater, #a78e4b
+river_fish_pool, #ab7c5c
+salmon_rolls, #af904d
+soaked_bag, #645c4b
+spear, #897d78
+uncooked_cod_meal, #bf9d4e
+uncooked_puffer_plater, #af913e
+uncooked_tropical_fish, #ca9841

@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"waterframes:remote"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"waterframes:projector"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

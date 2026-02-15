@@ -1,0 +1,15 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecolonies:ancienttome"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:recipe_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modern_industrialization:guidebook"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"solcarrot:food_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"patchouli:guide_book","components":{"patchouli:book":"productivetrees:guide"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"patchouli:guide_book","components":{"patchouli:book":"bigreactors:erguide"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"patchouli:guide_book","components":{"patchouli:book":"productivebees:guide"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:crafting_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cookingforblockheads:no_filter_edition"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bibliocraft:slotted_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bibliocraft:redstone_book"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"bibliocraft:big_book"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

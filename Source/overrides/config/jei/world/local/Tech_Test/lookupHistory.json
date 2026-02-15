@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"ftbfiltersystem:smart_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:attribute_filter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"patchouli:guide_book","components":{"patchouli:book":"modularrouters:book"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modularrouters:modular_router"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

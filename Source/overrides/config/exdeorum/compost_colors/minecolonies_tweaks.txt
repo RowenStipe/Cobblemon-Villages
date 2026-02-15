@@ -1,0 +1,2 @@
+// Compost colors for minecolonies_tweaks. You may add your own colors, change existing ones, or remove colors that aren't needed.
+resourcescroll_book, #a78d5f

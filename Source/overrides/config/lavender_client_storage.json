@@ -1,0 +1,33 @@
+{
+  "bookmarks": {},
+  "opened_books": {
+    "7875fd10-2971-4ec9-ad7f-f56a51eb8f40": [
+      "knowlogy:knowlogy_book"
+    ],
+    "304d4314-22f8-4874-9cd7-ed12871cdff1": [
+      "knowlogy:knowlogy_book"
+    ],
+    "e5ff75c0-cbc6-4147-b03b-361b09d42f79": [
+      "knowlogy:knowlogy_book"
+    ],
+    "62e6c770-fd85-4d2b-9ad2-536647d8c03d": [
+      "knowlogy:knowlogy_book"
+    ]
+  },
+  "viewed_entries": {
+    "7875fd10-2971-4ec9-ad7f-f56a51eb8f40": {
+      "knowlogy:knowlogy_book": [
+        "knowlogy:beginners_guide",
+        "minecraft:moss_carpet",
+        "minecraft:suspicious_gravel",
+        "minecraft:suspicious_sand",
+        "minecraft:armor"
+      ]
+    },
+    "62e6c770-fd85-4d2b-9ad2-536647d8c03d": {
+      "knowlogy:knowlogy_book": [
+        "minecraft:amethyst_shard"
+      ]
+    }
+  }
+}

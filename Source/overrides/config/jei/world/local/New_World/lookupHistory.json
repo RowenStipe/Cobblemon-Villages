@@ -1,4 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"akashictome:tome"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"lavender:dynamic_book","components":{"lavender:book_id":"knowlogy:knowlogy_book"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:experience_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ftbquests:book"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

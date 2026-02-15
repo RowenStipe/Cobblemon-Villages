@@ -1,6 +1,27 @@
 {
+	chapter.2DE84F8B3D5CD70D.title: "Oh The Biomes We've Gone"
 	chapter.3A04B1C2097B3631.title: "The Basics"
 	chapter_group.5E0A91654A51D470.title: "Getting Started"
-	quest.675298AA8040546A.title: "MArco"
+	quest.0CC4F771D49FD811.quest_desc: ["The Akashic Tome allows you to combine the various books from other mods into one. Simply place the Akashic Tome into a crafting slot along with another book and it'll add the book into the Akashic Tome. You can Right-Click with the Akahic Tome selected in your hot bar to select a book, then Left-Click to revert the tome and select a new book."]
+	quest.0CC4F771D49FD811.quest_subtitle: "Books within books"
+	quest.1B5365D7B06CC94B.quest_desc: ["This modpack uses the Oh The Biomes We've Gone mod to help create a more fantastical world and this chapter helps you track the biomes you've visited."]
+	quest.500A865152B04434.title: "Allium Shrubland"
+	quest.6A724F6286E151B7.quest_desc: [
+		"The quests in this pack are your guide to getting started with the various mods that are in use."
+		"{@pagebreak}"
+		"This pack is about exploring the world, possibly settling down, along side the Cobblemon team that you create."
+		"{@pagebreak}"
+		"To mark this quest as complete, click on the checkmark in the tasks for this quest."
+	]
+	quest.6A724F6286E151B7.quest_subtitle: "I promise."
+	quest.76B1AB273C97F938.quest_desc: [
+		"Technically the Poképedia is a moddified version of the Knowlogy book mod to fit the Pokémon theme, which acts as a progression and knowledge base that pulls information from the Minecraft Wiki and other supported mods to show how items interact. It doesn't show recipies, that's what JEI (Just Enough Items) is for, "
+		""
+		"You can quire this book for the first time by making a crafting table and then interacting with it."
+	]
+	quest.76B1AB273C97F938.quest_subtitle: "Mods modding mods"
+	task.1CB5B04D940F9727.title: "What a wonderful world"
+	task.1FBBC44341A59F3B.title: "Poképedia and you"
 	task.582871AB590E0948.title: "Theres a lot to do"
+	task.5AFBB18A2A9B3506.title: "I Can read!"
 }

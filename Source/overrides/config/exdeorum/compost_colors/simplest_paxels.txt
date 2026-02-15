@@ -1,0 +1,7 @@
+// Compost colors for simplest_paxels. You may add your own colors, change existing ones, or remove colors that aren't needed.
+diamond_paxel, #438c68
+golden_paxel, #be9b2f
+iron_paxel, #9e937f
+netherite_paxel, #644750
+stone_paxel, #7d725c
+wooden_paxel, #70541f

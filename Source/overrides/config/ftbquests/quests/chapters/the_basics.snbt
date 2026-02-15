@@ -1,18 +1,60 @@
 {
+	autofocus_id: "6A724F6286E151B7"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "the_basics"
 	group: "5E0A91654A51D470"
+	icon: {
+		id: "minecraft:compass"
+	}
 	id: "3A04B1C2097B3631"
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		id: "675298AA8040546A"
-		tasks: [{
-			id: "582871AB590E0948"
-			type: "checkmark"
-		}]
-		x: -1.5d
-		y: -7.0d
-	}]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:book"
+			}
+			id: "6A724F6286E151B7"
+			rewards: [{
+				id: "63CF101D53432325"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5AFBB18A2A9B3506"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -16.5d
+		}
+		{
+			dependencies: ["6A724F6286E151B7"]
+			hide_dependency_lines: false
+			id: "76B1AB273C97F938"
+			tasks: [{
+				advancement: "knowlogy:grant_knowlogy_book"
+				criterion: ""
+				id: "1FBBC44341A59F3B"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -15.0d
+		}
+		{
+			dependencies: ["76B1AB273C97F938"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "akashictome:tome"
+			}
+			id: "0CC4F771D49FD811"
+			tasks: [{
+				id: "462A09C72E5430BC"
+				item: { count: 1, id: "akashictome:tome" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -15.0d
+		}
+	]
 }

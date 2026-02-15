@@ -1,0 +1,33 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "oh_the_biomes_weve_gone"
+	group: "5E0A91654A51D470"
+	icon: {
+		id: "minecraft:cartography_table"
+	}
+	id: "2DE84F8B3D5CD70D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "500A865152B04434"
+			tasks: [{
+				biome: "biomeswevegone:allium_shrubland"
+				id: "4FE61E8B9532CFCA"
+				type: "biome"
+			}]
+			x: -12.5d
+			y: -10.0d
+		}
+		{
+			id: "1B5365D7B06CC94B"
+			tasks: [{
+				id: "1CB5B04D940F9727"
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: -12.0d
+		}
+	]
+}

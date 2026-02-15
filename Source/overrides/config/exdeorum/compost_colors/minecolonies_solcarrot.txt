@@ -1,0 +1,2 @@
+// Compost colors for minecolonies_solcarrot. You may add your own colors, change existing ones, or remove colors that aren't needed.
+food_nomicon, #6e5c2d

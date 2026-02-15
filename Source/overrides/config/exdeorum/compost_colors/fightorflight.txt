@@ -1,0 +1,3 @@
+// Compost colors for fightorflight. You may add your own colors, change existing ones, or remove colors that aren't needed.
+oran_lucky_egg, #bee1ee
+pokestaff, #d7a55c

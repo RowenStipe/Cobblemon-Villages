@@ -1,0 +1,7 @@
+// Compost colors for create_item_drawers. You may add your own colors, change existing ones, or remove colors that aren't needed.
+capacity_upgrade_base, #ffffff
+capacity_upgrade_t1, #fffffc
+capacity_upgrade_t2, #ffffe4
+capacity_upgrade_t3, #d9fff7
+capacity_upgrade_t4, #c8c3bc
+capacity_upgrade_t5, #ffebfa

@@ -1,0 +1,21 @@
+// Compost colors for dynamictrees. You may add your own colors, change existing ones, or remove colors that aren't needed.
+acacia_seed, #ffffff
+apple_oak_seed, #ffffff
+azalea_seed, #ffffff
+birch_seed, #ffffff
+cherry_seed, #ffffff
+cocoa_seed, #fcd3be
+crimson_seed, #fff5f7
+dark_oak_seed, #ffffff
+dendro_potion, #ffffff
+dirt_bucket, #f7f1ee
+jungle_seed, #ffffff
+mangrove_seed, #c5bfa7
+mega_crimson_seed, #f0bfc0
+mega_jungle_seed, #edffd7
+mega_spruce_seed, #c6b69e
+mega_warped_seed, #e6e4e4
+oak_seed, #ffffff
+spruce_seed, #faeede
+staff, #ffffff
+warped_seed, #ffffff

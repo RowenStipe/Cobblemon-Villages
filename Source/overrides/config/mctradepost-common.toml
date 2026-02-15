@@ -9,6 +9,8 @@
 	registerSoundChance = 0.5
 	#What chance, per building level, do visitors have of deciding to shop?
 	shoppingChance = 5
+	#What currency is used to facilitate trades, and will be extracted from the marketplace? (Restart required if changed.)
+	tradeCurrency = "mctradepost:mctp_coin"
 
 [resort]
 	#Maximum percentage chance of a citizen going on a vacation.

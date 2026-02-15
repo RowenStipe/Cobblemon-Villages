@@ -1,8 +1,11 @@
 {
-  "MinCaptureHPThreshold": 0.2,
-  "BonusCatchRate": 0.0,
-  "AllowMasterBall": false,
+  "HPThresholdBeforeBattle": 1.0,
+  "MinCaptureHPThreshold": 0.65,
+  "BonusCatchRate": 0.15,
+  "AllowMasterBall": true,
   "AllowOriginBall": false,
-  "AllowQuickBall": false,
-  "AllowSafariBall": false
+  "AllowQuickBall": true,
+  "AllowSafariBall": true,
+  "DimensionBlacklist": [],
+  "PokemonWhitelist": []
 }

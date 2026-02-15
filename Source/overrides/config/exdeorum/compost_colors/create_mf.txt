@@ -1,0 +1,25 @@
+// Compost colors for create_mf. You may add your own colors, change existing ones, or remove colors that aren't needed.
+coal_pin, #22180c
+cultivated_tree_sapling, #9ac25b
+dark_storage, #545568
+graphite, #cdcfca
+gravitron, #edd6d4
+gravitron_base, #7d7878
+incomplete_diamond, #cf7004
+incomplete_gravitron, #c3bfbe
+incomplete_refined_radiance_axe, #a8a4a1
+incomplete_refined_radiance_pickaxe, #a8a4a1
+incomplete_refined_radiance_shovel, #a8a4a1
+incomplete_refined_radiance_sword, #a8a4a1
+netheralavs_bucket, #d4ac9a
+pieces_of_graphite, #b5b6b1
+refined_radiance, #ffffff
+refined_radiance_axe, #ddd7cc
+refined_radiance_pickaxe, #cac3bb
+refined_radiance_shovel, #dcd4c9
+refined_radiance_storage, #fefefe
+refined_radiance_sword, #bfbbb6
+saltpeter, #ffffff
+shadow_ingot, #2a282a
+sulfur, #ffdd2c
+void_storage, #40475c

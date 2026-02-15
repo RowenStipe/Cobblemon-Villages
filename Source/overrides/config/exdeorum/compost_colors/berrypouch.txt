@@ -1,0 +1,3 @@
+// Compost colors for berrypouch. You may add your own colors, change existing ones, or remove colors that aren't needed.
+berry_pouch, #d2b452
+pokeball_gun, #afd3dd
